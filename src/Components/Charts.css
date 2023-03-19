@@ -1,0 +1,73 @@
+
+.level1org {
+    width: 100%;
+}
+.level2org {
+    width: min-content;
+    color: rgb(99, 109, 99);
+}
+.treeStemMain {
+    border-radius: 2px;
+    display: inline-block;
+    border: 2px solid #a36b6b;
+}
+.empDesg1 {
+    padding: 25px;
+    background-color: rgb(158, 154, 158);
+    box-shadow: '1px 2px 9px #F4AAB9';
+    margin: '4em';
+    padding: '1em';
+}
+.divWidth{
+    width: 10;
+    height: 10;
+}
+.img {
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    /* padding: 5px;
+    width: 150px; */
+  }
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    display: inline-block;
+    line-height: normal;
+  }
+
+  .dept{
+    
+        padding: 25px;
+        background-color: rgb(255, 225, 255);
+  }
+
+.empName1 {
+    padding: 10px;
+    background-color: rgb(194, 238, 238);
+}
+
+.empDesg2 {
+    padding: 25px;
+    background-color: rgb(158, 154, 158);
+}
+
+.empName2 {
+    padding: 10px;
+    background-color:  rgb(194, 238, 238);
+}
+.empDesg3 {
+    padding: 25px;
+    background-color:  rgb(158, 154, 158);
+}
+
+.empName3 {
+    padding: 10px;
+    background-color:  rgb(194, 238, 238);
+}
+.orgHeader {
+    text-align: center;
+}
